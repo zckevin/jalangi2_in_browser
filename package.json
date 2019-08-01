@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "browserify index.js > dist/bundle.js"
+  },
+  "dependencies": {
+    "acorn": "^6.2.1",
+    "esotope": "^1.4.5"
+  }
+}
